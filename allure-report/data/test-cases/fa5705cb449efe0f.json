@@ -1,0 +1,120 @@
+{
+  "uid" : "fa5705cb449efe0f",
+  "name" : "TC003- Verify login fails when password is not entered",
+  "fullName" : "Automating login page of LetCode website.TC003- Verify login fails when password is not entered",
+  "historyId" : "f9924847fe6bd4de9bb58f2d7df7fdf4",
+  "time" : {
+    "start" : 1612176279227,
+    "stop" : 1612176279228,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC003- Verify login fails when password is not entered"
+  }, {
+    "name" : "package",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c406f5fd8b856bec",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1612174947657,
+        "stop" : 1612174947658,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e9c1e04a548292ef",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1612173664153,
+        "stop" : 1612173664154,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "79212f4e67f3e135",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1612170850425,
+        "stop" : 1612170850426,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7d6887eea58ce2c",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1612170563030,
+        "stop" : 1612170563031,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e877d5fa89e3aaad",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1612170458761,
+        "stop" : 1612170458763,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "c6e86f6fb569cddf",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1612164247210,
+        "stop" : 1612164247211,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3e32abfbd2d03eae",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1612163348163,
+        "stop" : 1612163348181,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "b975b284b274a188",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1612106024219,
+        "stop" : 1612106024241,
+        "duration" : 22
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fa5705cb449efe0f.json",
+  "parameterValues" : [ ]
+}

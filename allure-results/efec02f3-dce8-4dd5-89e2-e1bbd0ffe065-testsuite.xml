@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1612105998817' stop='1612106024245'>
+    <name>Automating login page of LetCode website</name>
+    <title>Automating login page of LetCode website</title>
+    <test-cases>
+        <test-case start='1612105998818' status='passed' stop='1612106009081'>
+            <name>TC001 - Verify the Page Header and navigate to Login Page</name>
+            <title>TC001 - Verify the Page Header and navigate to Login Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6306360c-b159-4e10-bacb-f23be5e1c6d7-attachment.png' type='image/png' size='120002'/>
+                <attachment title='Screenshot' source='1c3f7c3f-6c20-409a-a22f-3227d3697b4d-attachment.png' type='image/png' size='99542'/>
+            </attachments>
+        </test-case>
+        <test-case start='1612106009082' status='failed' stop='1612106024219'>
+            <name>TC002- Verify User can login to application successfully</name>
+            <title>TC002- Verify User can login to application successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='68883ca5-225d-4451-aab2-decff194b9e5-attachment.png' type='image/png' size='99542'/>
+                <attachment title='Screenshot' source='9644af30-83d8-4c32-8da6-c5a28155665d-attachment.png' type='image/png' size='103717'/>
+            </attachments>
+            <failure>
+                <message>Failed: No element found using locator: By(xpath, //a[contains(text(),'Sign out')])</message>
+                <stack-trace>NoSuchElementError: No element found using locator: By(xpath, //a[contains(text(),'Sign out')])
+                    at C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\built\element.js:814:27
+                    at ManagedPromise.invokeCallback_ (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+                    at TaskQueue.execute_ (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2927:27
+                    at C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)Error: 
+                    at ElementArrayFinder.applyAction_ (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\built\element.js:459:27)
+                    at ElementArrayFinder.&lt;computed> [as isDisplayed] (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\built\element.js:91:29)
+                    at ElementFinder.&lt;computed> [as isDisplayed] (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\built\element.js:831:22)
+                    at HomePage.&lt;anonymous> (D:\Protractor Training\E2EFramework\Pages-ts\HomePage.ts:27:51)
+                    at Generator.next (&lt;anonymous>)
+                    at D:\Protractor Training\E2EFramework\Pages-ts\HomePage.ts:8:71
+                    at new Promise (&lt;anonymous>)
+                    at __awaiter (D:\Protractor Training\E2EFramework\Pages-ts\HomePage.ts:4:12)
+                    at HomePage.ifSignOutButtonDispalyed (D:\Protractor Training\E2EFramework\Pages-ts\HomePage.ts:34:16)
+                    at UserContext.&lt;anonymous> (D:\Protractor Training\E2EFramework\Test_Spec-ts\Login.spec.ts:35:36)
+                From: Task: Run it("TC002- Verify User can login to application successfully") in control flow
+                    at UserContext.&lt;anonymous> (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+                    at attempt (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4297:26)
+                    at QueueRunner.run (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4217:20)
+                    at runNext (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4257:20)
+                    at C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4264:13
+                    at C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4172:9
+                    at C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:64:48
+                    at ControlFlow.emit (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\events.js:62:21)
+                    at ControlFlow.shutdown_ (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2674:10)
+                    at C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2599:53
+                From asynchronous test: 
+                Error: 
+                    at Suite.&lt;anonymous> (D:\Protractor Training\E2EFramework\Test_Spec-ts\Login.spec.ts:28:5)
+                    at addSpecsToSuite (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+                    at Env.describe (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+                    at describe (C:\Users\kunal\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (D:\Protractor Training\E2EFramework\Test_Spec-ts\Login.spec.ts:15:1)
+                    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+                    at Module.m._compile (D:\Protractor Training\E2EFramework\node_modules\ts-node\src\index.ts:858:23)
+                    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+                    at Object.require.extensions.&lt;computed> [as .ts] (D:\Protractor Training\E2EFramework\node_modules\ts-node\src\index.ts:861:12)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1612106024219' status='pending' stop='1612106024241'>
+            <name>TC003- Verify login fails when password is not entered</name>
+            <title>TC003- Verify login fails when password is not entered</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

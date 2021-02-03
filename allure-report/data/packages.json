@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Automating login page of LetCode website",
+    "children" : [ {
+      "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+      "uid" : "e1d25e988b4c71ae",
+      "parentUid" : "0ad8c82cc74011eda4f544507c55efc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612176263080,
+        "stop" : 1612176271531,
+        "duration" : 8451
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC002- Verify User can login to application successfully",
+      "uid" : "44771be416b7ccf4",
+      "parentUid" : "0ad8c82cc74011eda4f544507c55efc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612176271531,
+        "stop" : 1612176279227,
+        "duration" : 7696
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TC003- Verify login fails when password is not entered",
+      "uid" : "fa5705cb449efe0f",
+      "parentUid" : "0ad8c82cc74011eda4f544507c55efc0",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1612176279227,
+        "stop" : 1612176279228,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0ad8c82cc74011eda4f544507c55efc0"
+  } ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "f9dbc62eccd27c69",
+  "name" : "TC002- Verify User can login to application successfully",
+  "fullName" : "Automating login page of LetCode website.TC002- Verify User can login to application successfully",
+  "historyId" : "3ece9896a750d438715f1aa5bba25b94",
+  "time" : {
+    "start" : 1612174938995,
+    "stop" : 1612174947657,
+    "duration" : 8662
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fbe9cd78c55e724",
+      "name" : "Screenshot",
+      "source" : "fbe9cd78c55e724.png",
+      "type" : "image/png",
+      "size" : 99542
+    }, {
+      "uid" : "84212d0b7fa8be65",
+      "name" : "Screenshot",
+      "source" : "84212d0b7fa8be65.png",
+      "type" : "image/png",
+      "size" : 104121
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC002- Verify User can login to application successfully"
+  }, {
+    "name" : "package",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9dbc62eccd27c69.json",
+  "parameterValues" : [ ]
+}

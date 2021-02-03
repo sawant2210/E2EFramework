@@ -1,0 +1,41 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1612369894832' stop='1612369925028'>
+    <name>Automating login page of LetCode website</name>
+    <title>Automating login page of LetCode website</title>
+    <test-cases>
+        <test-case start='1612369894832' status='passed' stop='1612369908900'>
+            <name>TC001 - Verify the Page Header and navigate to Login Page</name>
+            <title>TC001 - Verify the Page Header and navigate to Login Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0bc88a23-a3c6-4822-b741-711e87a801ed-attachment.png' type='image/png' size='120002'/>
+                <attachment title='Screenshot' source='028d865e-4fee-4b5c-81ee-6383431abde4-attachment.png' type='image/png' size='99542'/>
+            </attachments>
+        </test-case>
+        <test-case start='1612369908900' status='passed' stop='1612369925023'>
+            <name>TC002- Verify User can login to application successfully</name>
+            <title>TC002- Verify User can login to application successfully</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='6a1c5ab1-2333-4f63-a19a-b79172e50f48-attachment.png' type='image/png' size='99542'/>
+                <attachment title='Screenshot' source='3d8f89e9-8c64-41f6-8361-910da5b0d84c-attachment.png' type='image/png' size='104121'/>
+            </attachments>
+        </test-case>
+        <test-case start='1612369925023' status='pending' stop='1612369925024'>
+            <name>TC003- Verify login fails when password is not entered</name>
+            <title>TC003- Verify login fails when password is not entered</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

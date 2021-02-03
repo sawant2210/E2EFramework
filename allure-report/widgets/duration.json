@@ -1,0 +1,31 @@
+[ {
+  "uid" : "44771be416b7ccf4",
+  "name" : "TC002- Verify User can login to application successfully",
+  "time" : {
+    "start" : 1612176271531,
+    "stop" : 1612176279227,
+    "duration" : 7696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa5705cb449efe0f",
+  "name" : "TC003- Verify login fails when password is not entered",
+  "time" : {
+    "start" : 1612176279227,
+    "stop" : 1612176279228,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e1d25e988b4c71ae",
+  "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+  "time" : {
+    "start" : 1612176263080,
+    "stop" : 1612176271531,
+    "duration" : 8451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

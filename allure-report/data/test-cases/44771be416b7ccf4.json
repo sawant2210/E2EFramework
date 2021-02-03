@@ -1,0 +1,135 @@
+{
+  "uid" : "44771be416b7ccf4",
+  "name" : "TC002- Verify User can login to application successfully",
+  "fullName" : "Automating login page of LetCode website.TC002- Verify User can login to application successfully",
+  "historyId" : "3ece9896a750d438715f1aa5bba25b94",
+  "time" : {
+    "start" : 1612176271531,
+    "stop" : 1612176279227,
+    "duration" : 7696
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4622545f6bf8186f",
+      "name" : "Screenshot",
+      "source" : "4622545f6bf8186f.png",
+      "type" : "image/png",
+      "size" : 99542
+    }, {
+      "uid" : "9d058a8c7076b058",
+      "name" : "Screenshot",
+      "source" : "9d058a8c7076b058.png",
+      "type" : "image/png",
+      "size" : 104121
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC002- Verify User can login to application successfully"
+  }, {
+    "name" : "package",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f9dbc62eccd27c69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612174938995,
+        "stop" : 1612174947657,
+        "duration" : 8662
+      }
+    }, {
+      "uid" : "a33ac9eff963561",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612173656694,
+        "stop" : 1612173664153,
+        "duration" : 7459
+      }
+    }, {
+      "uid" : "f4062a7194a77f1e",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1612170719401,
+        "stop" : 1612170850425,
+        "duration" : 131024
+      }
+    }, {
+      "uid" : "4604dd2afc496e81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612170556080,
+        "stop" : 1612170563030,
+        "duration" : 6950
+      }
+    }, {
+      "uid" : "92b0e535e2d3f378",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612170451554,
+        "stop" : 1612170458761,
+        "duration" : 7207
+      }
+    }, {
+      "uid" : "6a21fc1ea6323281",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612164240397,
+        "stop" : 1612164247210,
+        "duration" : 6813
+      }
+    }, {
+      "uid" : "b157e1c12dc80fb9",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Sign out')])",
+      "time" : {
+        "start" : 1612163335550,
+        "stop" : 1612163348162,
+        "duration" : 12612
+      }
+    }, {
+      "uid" : "f9ed96e8dd779f3f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Sign out')])",
+      "time" : {
+        "start" : 1612106009082,
+        "stop" : 1612106024219,
+        "duration" : 15137
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44771be416b7ccf4.json",
+  "parameterValues" : [ ]
+}

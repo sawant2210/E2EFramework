@@ -1,0 +1,133 @@
+{
+  "uid" : "e1d25e988b4c71ae",
+  "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+  "fullName" : "Automating login page of LetCode website.TC001 - Verify the Page Header and navigate to Login Page",
+  "historyId" : "e731c9c3cb02ddb49eca9eb81dfedc7e",
+  "time" : {
+    "start" : 1612176263080,
+    "stop" : 1612176271531,
+    "duration" : 8451
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "109d2be4674bfc23",
+      "name" : "Screenshot",
+      "source" : "109d2be4674bfc23.png",
+      "type" : "image/png",
+      "size" : 120002
+    }, {
+      "uid" : "777a41a864d1fcf4",
+      "name" : "Screenshot",
+      "source" : "777a41a864d1fcf4.png",
+      "type" : "image/png",
+      "size" : 99542
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC001 - Verify the Page Header and navigate to Login Page"
+  }, {
+    "name" : "package",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5e26d8b3129e809f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612174933635,
+        "stop" : 1612174938994,
+        "duration" : 5359
+      }
+    }, {
+      "uid" : "4ca92673633b985d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612173645510,
+        "stop" : 1612173656694,
+        "duration" : 11184
+      }
+    }, {
+      "uid" : "6028e6f7832321aa",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1612170598874,
+        "stop" : 1612170719401,
+        "duration" : 120527
+      }
+    }, {
+      "uid" : "33167f34c1ef4c56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612170550530,
+        "stop" : 1612170556080,
+        "duration" : 5550
+      }
+    }, {
+      "uid" : "9ba9757e52a04efa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612170445525,
+        "stop" : 1612170451553,
+        "duration" : 6028
+      }
+    }, {
+      "uid" : "a48709da358381da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612164230212,
+        "stop" : 1612164240397,
+        "duration" : 10185
+      }
+    }, {
+      "uid" : "834bc5f59a181c39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612163324372,
+        "stop" : 1612163335549,
+        "duration" : 11177
+      }
+    }, {
+      "uid" : "b3556f86bbbd9405",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612105998818,
+        "stop" : 1612106009081,
+        "duration" : 10263
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1d25e988b4c71ae.json",
+  "parameterValues" : [ ]
+}

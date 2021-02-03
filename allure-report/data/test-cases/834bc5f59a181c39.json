@@ -1,0 +1,66 @@
+{
+  "uid" : "834bc5f59a181c39",
+  "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+  "fullName" : "Automating login page of LetCode website.TC001 - Verify the Page Header and navigate to Login Page",
+  "historyId" : "e731c9c3cb02ddb49eca9eb81dfedc7e",
+  "time" : {
+    "start" : 1612163324372,
+    "stop" : 1612163335549,
+    "duration" : 11177
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a84d37f6dc58d5da",
+      "name" : "Screenshot",
+      "source" : "a84d37f6dc58d5da.png",
+      "type" : "image/png",
+      "size" : 120002
+    }, {
+      "uid" : "110469803eacdbb4",
+      "name" : "Screenshot",
+      "source" : "110469803eacdbb4.png",
+      "type" : "image/png",
+      "size" : 99542
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC001 - Verify the Page Header and navigate to Login Page"
+  }, {
+    "name" : "package",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "834bc5f59a181c39.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,60 @@
+{
+  "e731c9c3cb02ddb49eca9eb81dfedc7e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1d25e988b4c71ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612176263080,
+        "stop" : 1612176271531,
+        "duration" : 8451
+      }
+    } ]
+  },
+  "3ece9896a750d438715f1aa5bba25b94" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44771be416b7ccf4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612176271531,
+        "stop" : 1612176279227,
+        "duration" : 7696
+      }
+    } ]
+  },
+  "f9924847fe6bd4de9bb58f2d7df7fdf4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fa5705cb449efe0f",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1612176279227,
+        "stop" : 1612176279228,
+        "duration" : 1
+      }
+    } ]
+  }
+}

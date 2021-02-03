@@ -1,0 +1,356 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "TC002- Verify User can login to application successfully",
+    "uid" : "6a21fc1ea6323281",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612164240397,
+      "stop" : 1612164247210,
+      "duration" : 6813
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+    "uid" : "4ca92673633b985d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612173645510,
+      "stop" : 1612173656694,
+      "duration" : 11184
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC003- Verify login fails when password is not entered",
+    "uid" : "e877d5fa89e3aaad",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1612170458761,
+      "stop" : 1612170458763,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC002- Verify User can login to application successfully",
+    "uid" : "f9ed96e8dd779f3f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1612106009082,
+      "stop" : 1612106024219,
+      "duration" : 15137
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC003- Verify login fails when password is not entered",
+    "uid" : "fa5705cb449efe0f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1612176279227,
+      "stop" : 1612176279228,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+    "uid" : "b3556f86bbbd9405",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612105998818,
+      "stop" : 1612106009081,
+      "duration" : 10263
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+    "uid" : "e1d25e988b4c71ae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612176263080,
+      "stop" : 1612176271531,
+      "duration" : 8451
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC002- Verify User can login to application successfully",
+    "uid" : "92b0e535e2d3f378",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612170451554,
+      "stop" : 1612170458761,
+      "duration" : 7207
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC003- Verify login fails when password is not entered",
+    "uid" : "e9c1e04a548292ef",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1612173664153,
+      "stop" : 1612173664154,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+    "uid" : "a48709da358381da",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612164230212,
+      "stop" : 1612164240397,
+      "duration" : 10185
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC002- Verify User can login to application successfully",
+    "uid" : "f9dbc62eccd27c69",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612174938995,
+      "stop" : 1612174947657,
+      "duration" : 8662
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC003- Verify login fails when password is not entered",
+    "uid" : "c6e86f6fb569cddf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1612164247210,
+      "stop" : 1612164247211,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC003- Verify login fails when password is not entered",
+    "uid" : "b975b284b274a188",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1612106024219,
+      "stop" : 1612106024241,
+      "duration" : 22
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC002- Verify User can login to application successfully",
+    "uid" : "4604dd2afc496e81",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612170556080,
+      "stop" : 1612170563030,
+      "duration" : 6950
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC003- Verify login fails when password is not entered",
+    "uid" : "c406f5fd8b856bec",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1612174947657,
+      "stop" : 1612174947658,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC003- Verify login fails when password is not entered",
+    "uid" : "7d6887eea58ce2c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1612170563030,
+      "stop" : 1612170563031,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+    "uid" : "6028e6f7832321aa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1612170598874,
+      "stop" : 1612170719401,
+      "duration" : 120527
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC002- Verify User can login to application successfully",
+    "uid" : "f4062a7194a77f1e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1612170719401,
+      "stop" : 1612170850425,
+      "duration" : 131024
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+    "uid" : "5e26d8b3129e809f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612174933635,
+      "stop" : 1612174938994,
+      "duration" : 5359
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+    "uid" : "9ba9757e52a04efa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612170445525,
+      "stop" : 1612170451553,
+      "duration" : 6028
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC003- Verify login fails when password is not entered",
+    "uid" : "79212f4e67f3e135",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1612170850425,
+      "stop" : 1612170850426,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC002- Verify User can login to application successfully",
+    "uid" : "b157e1c12dc80fb9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1612163335550,
+      "stop" : 1612163348162,
+      "duration" : 12612
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC003- Verify login fails when password is not entered",
+    "uid" : "3e32abfbd2d03eae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1612163348163,
+      "stop" : 1612163348181,
+      "duration" : 18
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+    "uid" : "834bc5f59a181c39",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612163324372,
+      "stop" : 1612163335549,
+      "duration" : 11177
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC001 - Verify the Page Header and navigate to Login Page",
+    "uid" : "33167f34c1ef4c56",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612170550530,
+      "stop" : 1612170556080,
+      "duration" : 5550
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC002- Verify User can login to application successfully",
+    "uid" : "44771be416b7ccf4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612176271531,
+      "stop" : 1612176279227,
+      "duration" : 7696
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TC002- Verify User can login to application successfully",
+    "uid" : "a33ac9eff963561",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612173656694,
+      "stop" : 1612173664153,
+      "duration" : 7459
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

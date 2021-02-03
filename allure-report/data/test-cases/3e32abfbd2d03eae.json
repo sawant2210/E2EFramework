@@ -1,0 +1,46 @@
+{
+  "uid" : "3e32abfbd2d03eae",
+  "name" : "TC003- Verify login fails when password is not entered",
+  "fullName" : "Automating login page of LetCode website.TC003- Verify login fails when password is not entered",
+  "historyId" : "f9924847fe6bd4de9bb58f2d7df7fdf4",
+  "time" : {
+    "start" : 1612163348163,
+    "stop" : 1612163348181,
+    "duration" : 18
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testClass",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC003- Verify login fails when password is not entered"
+  }, {
+    "name" : "package",
+    "value" : "Automating login page of LetCode website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e32abfbd2d03eae.json",
+  "parameterValues" : [ ]
+}
